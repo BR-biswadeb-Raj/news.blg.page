@@ -1,0 +1,9 @@
+@media screen and (max-width: 600px)  {
+    .post-form{
+        display: none;
+    }
+    .card{
+        display: none;
+    }
+   
+  }
